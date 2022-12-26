@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Add-circles-challenge/static/css/main.d7c6ae8c.css",
+    "main.js": "/Add-circles-challenge/static/js/main.bab30311.js",
+    "index.html": "/Add-circles-challenge/index.html",
+    "main.d7c6ae8c.css.map": "/Add-circles-challenge/static/css/main.d7c6ae8c.css.map",
+    "main.bab30311.js.map": "/Add-circles-challenge/static/js/main.bab30311.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c6ae8c.css",
+    "static/js/main.bab30311.js"
+  ]
+}
